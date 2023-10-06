@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| |a| | |e| | | | |
+|p|a|n|n|e|k|o|e|k|
 
 |r|m|b|-|-|-|-|
 
@@ -23,6 +23,4 @@ ik raad a
 
 ik raad b
 
-ik raad 
-
-ik raad pannekoeke
+**ik raad pannekoek**
